@@ -13,6 +13,6 @@ $ pip install -r requirements.txt
 ### run the FastAPI server
  $ uvicorn main:app --reload --host 0.0.0.0 --port 5000
  ### post man collection 
-  we put export file from postmsn in assets
+  we put export file from postman in assets
 
 
