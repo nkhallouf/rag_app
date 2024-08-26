@@ -1,4 +1,4 @@
-# minirag
+# mini_rag
 mini rag model for answering question
 ## Requirements
 - python 3.8 or later
